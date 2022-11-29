@@ -1,0 +1,110 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(376,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  6_19.c
+  6_33.c
+  6_36.c
+  6_37.c
+  p05.c
+  p06.c
+  p10.c
+c:\users\smghs\onedrive\桌面\hw_ch5_c\source\p10.c(9): error C2065: 'number': 未宣告的識別項
+c:\users\smghs\onedrive\桌面\hw_ch5_c\source\p10.c(13): error C2065: 'number': 未宣告的識別項
+  p13.c
+c:\users\smghs\onedrive\桌面\hw_ch5_c\source\p13.c(4): error C2143: 語法錯誤: 遺漏 ')' (在 '&' 之前)
+c:\users\smghs\onedrive\桌面\hw_ch5_c\source\p13.c(4): error C2143: 語法錯誤: 遺漏 '{' (在 '&' 之前)
+c:\users\smghs\onedrive\桌面\hw_ch5_c\source\p13.c(4): error C2059: 語法錯誤: '&'
+c:\users\smghs\onedrive\桌面\hw_ch5_c\source\p13.c(4): error C2059: 語法錯誤: ')'
+c:\users\smghs\onedrive\桌面\hw_ch5_c\source\p13.c(9): error C2065: 'number': 未宣告的識別項
+c:\users\smghs\onedrive\桌面\hw_ch5_c\source\p13.c(11): warning C4013: 'cubeByReference' 未定義; 假設 extern 傳回整數
+c:\users\smghs\onedrive\桌面\hw_ch5_c\source\p13.c(13): error C2065: 'number': 未宣告的識別項
+c:\users\smghs\onedrive\桌面\hw_ch5_c\source\p13.c(17): error C2143: 語法錯誤: 遺漏 ')' (在 '&' 之前)
+c:\users\smghs\onedrive\桌面\hw_ch5_c\source\p13.c(17): error C2143: 語法錯誤: 遺漏 '{' (在 '&' 之前)
+c:\users\smghs\onedrive\桌面\hw_ch5_c\source\p13.c(17): error C2059: 語法錯誤: '&'
+c:\users\smghs\onedrive\桌面\hw_ch5_c\source\p13.c(17): error C2059: 語法錯誤: ')'
+  p15.c
+  p19.c
+c:\users\smghs\onedrive\桌面\hw_ch5_c\source\p19.c(33): error C2065: 'offest': 未宣告的識別項
+  p25.c
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\mmsyscom.h(94): error C2061: 語法錯誤: 識別項 'MMVERSION'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\mmsyscom.h(94): error C2059: 語法錯誤: ';'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\mmsyscom.h(98): error C2061: 語法錯誤: 識別項 'MMRESULT'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\mmsyscom.h(98): error C2059: 語法錯誤: ';'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\mmsyscom.h(102): error C2061: 語法錯誤: 識別項 'FAR'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\mmsyscom.h(102): error C2059: 語法錯誤: ';'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\mmsyscom.h(109): error C2061: 語法錯誤: 識別項 'UINT'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\mmsyscom.h(112): error C2061: 語法錯誤: 識別項 'DWORD'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\mmsyscom.h(113): error C2061: 語法錯誤: 識別項 'sample'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\mmsyscom.h(113): error C2059: 語法錯誤: ';'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\mmsyscom.h(114): error C2061: 語法錯誤: 識別項 'cb'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\mmsyscom.h(114): error C2059: 語法錯誤: ';'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\mmsyscom.h(115): error C2061: 語法錯誤: 識別項 'ticks'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\mmsyscom.h(115): error C2059: 語法錯誤: ';'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\mmsyscom.h(120): error C2061: 語法錯誤: 識別項 'BYTE'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\mmsyscom.h(121): error C2061: 語法錯誤: 識別項 'min'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\mmsyscom.h(121): error C2059: 語法錯誤: ';'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\mmsyscom.h(122): error C2061: 語法錯誤: 識別項 'sec'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\mmsyscom.h(122): error C2059: 語法錯誤: ';'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\mmsyscom.h(123): error C2061: 語法錯誤: 識別項 'frame'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\mmsyscom.h(123): error C2059: 語法錯誤: ';'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\mmsyscom.h(124): error C2061: 語法錯誤: 識別項 'fps'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\mmsyscom.h(124): error C2059: 語法錯誤: ';'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\mmsyscom.h(125): error C2061: 語法錯誤: 識別項 'dummy'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\mmsyscom.h(125): error C2059: 語法錯誤: ';'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\mmsyscom.h(127): error C2061: 語法錯誤: 識別項 'pad'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\mmsyscom.h(127): error C2059: 語法錯誤: ';'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\mmsyscom.h(127): error C2059: 語法錯誤: '['
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\mmsyscom.h(129): error C2059: 語法錯誤: '}'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\mmsyscom.h(134): error C2061: 語法錯誤: 識別項 'DWORD'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\mmsyscom.h(135): error C2059: 語法錯誤: '}'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\mmsyscom.h(136): error C2059: 語法錯誤: '}'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\mmsyscom.h(137): error C2059: 語法錯誤: '}'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\mmsyscom.h(297): error C2146: 語法錯誤: 遺漏 ')' (在識別項 'DRVCALLBACK' 之前)
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\mmsyscom.h(297): error C2061: 語法錯誤: 識別項 'DRVCALLBACK'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\mmsyscom.h(297): error C2059: 語法錯誤: ')'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\mmsyscom.h(297): error C2146: 語法錯誤: 遺漏 ')' (在識別項 'hdrvr' 之前)
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\mmsyscom.h(297): error C2061: 語法錯誤: 識別項 'hdrvr'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\mmsyscom.h(297): error C2059: 語法錯誤: ','
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\mmsyscom.h(299): error C2061: 語法錯誤: 識別項 'FAR'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\mmsyscom.h(299): error C2059: 語法錯誤: ';'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\mmsyscom.h(301): error C2143: 語法錯誤: 遺漏 '{' (在 '*' 之前)
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\timeapi.h(44): error C2061: 語法錯誤: 識別項 'UINT'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\timeapi.h(45): error C2061: 語法錯誤: 識別項 'wPeriodMax'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\timeapi.h(45): error C2059: 語法錯誤: ';'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\timeapi.h(46): error C2059: 語法錯誤: '}'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\timeapi.h(50): error C2061: 語法錯誤: 識別項 'MMRESULT'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\timeapi.h(50): error C2059: 語法錯誤: ';'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\timeapi.h(52): error C2061: 語法錯誤: 識別項 'timeGetSystemTime'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\timeapi.h(52): error C2059: 語法錯誤: ';'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\timeapi.h(53): error C2146: 語法錯誤: 遺漏 ')' (在識別項 'pmmt' 之前)
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\timeapi.h(53): error C2061: 語法錯誤: 識別項 'pmmt'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\timeapi.h(53): error C2059: 語法錯誤: ','
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\timeapi.h(55): error C2059: 語法錯誤: ')'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\timeapi.h(58): error C2061: 語法錯誤: 識別項 'DWORD'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\timeapi.h(58): error C2059: 語法錯誤: ';'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\timeapi.h(60): error C2061: 語法錯誤: 識別項 'timeGetTime'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\timeapi.h(60): error C2059: 語法錯誤: ';'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\timeapi.h(62): error C2059: 語法錯誤: '<parameter-list>'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\timeapi.h(65): error C2061: 語法錯誤: 識別項 'MMRESULT'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\timeapi.h(65): error C2059: 語法錯誤: ';'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\timeapi.h(67): error C2061: 語法錯誤: 識別項 'timeGetDevCaps'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\timeapi.h(67): error C2059: 語法錯誤: ';'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\timeapi.h(68): error C2146: 語法錯誤: 遺漏 ')' (在識別項 'ptc' 之前)
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\timeapi.h(68): error C2061: 語法錯誤: 識別項 'ptc'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\timeapi.h(68): error C2059: 語法錯誤: ','
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\timeapi.h(70): error C2059: 語法錯誤: ')'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\timeapi.h(73): error C2061: 語法錯誤: 識別項 'MMRESULT'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\timeapi.h(73): error C2059: 語法錯誤: ';'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\timeapi.h(75): error C2061: 語法錯誤: 識別項 'timeBeginPeriod'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\timeapi.h(75): error C2059: 語法錯誤: ';'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\timeapi.h(76): error C2146: 語法錯誤: 遺漏 ')' (在識別項 'uPeriod' 之前)
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\timeapi.h(76): error C2061: 語法錯誤: 識別項 'uPeriod'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\timeapi.h(77): error C2059: 語法錯誤: ')'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\timeapi.h(80): error C2061: 語法錯誤: 識別項 'MMRESULT'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\timeapi.h(80): error C2059: 語法錯誤: ';'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\timeapi.h(82): error C2061: 語法錯誤: 識別項 'timeEndPeriod'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\timeapi.h(82): error C2059: 語法錯誤: ';'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\timeapi.h(83): error C2146: 語法錯誤: 遺漏 ')' (在識別項 'uPeriod' 之前)
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\timeapi.h(83): error C2061: 語法錯誤: 識別項 'uPeriod'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\timeapi.h(84): error C2059: 語法錯誤: ')'
+c:\users\smghs\onedrive\桌面\hw_ch5_c\source\p25.c(17): warning C4013: 'time' 未定義; 假設 extern 傳回整數
+  正在產生程式碼...
