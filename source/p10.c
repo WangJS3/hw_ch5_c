@@ -5,10 +5,10 @@ void cubeByReference(int*nPtr);
 
 int main(void)
 {
-	int numbrer = 5;
+	int number = 5;
 	printf("The original value of number is %d", number);
 
-	cubeByReference(&numbrer);
+	cubeByReference(&number);
 
 	printf("\nThe new value of number is %d", number);
 	system("pause");

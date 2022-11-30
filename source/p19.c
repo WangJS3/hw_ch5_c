@@ -30,7 +30,7 @@ int main(void)
 	printf("\nPointer/offest notation\n");
 	for (offset = 0; offset < 4; offset++)
 	{
-		printf("*(bPtr+%d)=%d\n", offest, *(bPtr + offset));
+		printf("*(bPtr+%d)=%d\n", offset, *(bPtr + offset));
 	}
 
 	system("pause");
